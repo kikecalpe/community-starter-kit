@@ -34,5 +34,14 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
+#### Comment to be posted to on first time issues
+newIssueWelcomeComment: |
+  👋 Thanks for opening your first issue here! If you're reporting a 🐞 bug, please make sure you include steps to reproduce it. We get a lot of issues on this repo, so please be patient and we will get back to you as soon as we can.
 
-CONFIGS PLACEHOLDER
+  To help make it easier for us to investigate your issue, please follow the [contributing guidelines](https://github.com/electron/electron/blob/master/CONTRIBUTING.md).
+
+#### Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+#### Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: |
+  💖 Thanks for opening this pull request! 💖
